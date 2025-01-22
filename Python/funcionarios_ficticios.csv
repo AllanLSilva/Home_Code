@@ -1,0 +1,21 @@
+ID,Nome,Sobrenome,Idade,Gênero,Departamento,Cargo,Salário,Data de Admissão
+1,João,Silva,34,Masculino,Financeiro,Analista Financeiro,5200,2018-03-15
+2,Ana,Oliveira,29,Feminino,Recursos Humanos,Coordenadora de RH,4700,2020-05-20
+3,Carlos,Santos,41,Masculino,Tecnologia,Desenvolvedor,7500,2016-09-10
+4,Beatriz,Almeida,26,Feminino,Marketing,Assistente de Marketing,3200,2021-02-01
+5,Rafael,Souza,38,Masculino,Vendas,Gerente de Vendas,8900,2015-11-05
+6,Mariana,Costa,31,Feminino,Logística,Supervisora de Logística,4600,2019-08-18
+7,Fernando,Barbosa,45,Masculino,Produção,Operador de Máquina,2900,2013-04-22
+8,Luiza,Lima,25,Feminino,Financeiro,Estagiária,1500,2022-10-01
+9,Ricardo,Rocha,37,Masculino,Tecnologia,Analista de Suporte,4400,2017-12-10
+10,Paula,Ribeiro,33,Feminino,Recursos Humanos,Especialista em Treinamento,5300,2018-06-30
+11,Bruno,Cardoso,30,Masculino,Vendas,Consultor de Vendas,4000,2020-03-25
+12,Carla,Freitas,28,Feminino,Marketing,Coordenadora de Marketing,5600,2019-11-15
+13,Gabriel,Pereira,35,Masculino,Financeiro,Controlador,6100,2017-01-20
+14,Juliana,Mendes,27,Feminino,Logística,Analista de Logística,3500,2021-09-01
+15,Thiago,Fernandes,40,Masculino,Produção,Supervisor de Produção,5000,2014-07-12
+16,Renata,Araujo,32,Feminino,Recursos Humanos,Analista de Recrutamento,4800,2018-12-15
+17,Fábio,Martins,36,Masculino,Tecnologia,Engenheiro de Software,8000,2016-03-10
+18,Sofia,Souza,24,Feminino,Vendas,Estagiária,1800,2022-01-20
+19,Diego,Moreira,39,Masculino,Logística,Motorista,3100,2015-08-30
+20,Alice,Castro,28,Feminino,Marketing,Analista de Comunicação,3700,2020-02-14
